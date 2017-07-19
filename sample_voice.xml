@@ -2,6 +2,6 @@
 <Response>
     <SpeakSentence gender="male" locale="en_US" voice="paul">Transfering you to a Bandwidth Exec</SpeakSentence>
     <Transfer transferTo="+15087696559">
-        <SpeakSentence gender="male" locale="en_US" voice="paul">This call has been forwarded.</SpeakSentence>
+        <SpeakSentence gender="male" locale="en_US" voice="paul">Get ready for an exciting conversation with an analyst!</SpeakSentence>
     </Transfer>
 </Response>
