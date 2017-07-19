@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Response>
+    <SpeakSentence gender="male" locale="en_US" voice="paul">Transfering you to someone from Bandwidth</SpeakSentence>
+    <Transfer transferTo="+14848885241">
+        <PhoneNumber>+16174605208</PhoneNumber>
+        <PhoneNumber>+19192978830</PhoneNumber>
+        <SpeakSentence gender="male" locale="en_US" voice="paul">Get ready for an exciting call with an analyst!</SpeakSentence>
+    </Transfer>
+</Response>
