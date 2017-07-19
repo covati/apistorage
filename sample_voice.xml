@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Response>
     <SpeakSentence gender="male" locale="en_US" voice="paul">Transfering you to a Bandwidth Exec</SpeakSentence>
-    <Transfer transferCallerId="+15552221235" transferTo="+15552121243">
-        <PhoneNumber>+15087696559</PhoneNumber>
+    <Transfer transferCallerId="+15552221235" transferTo="+15087696559">
         <SpeakSentence gender="male" locale="en_US" voice="paul">This call has been forwarded.</SpeakSentence>
     </Transfer>
 </Response>
