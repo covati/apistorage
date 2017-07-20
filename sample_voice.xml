@@ -2,6 +2,7 @@
 <Response>
     <SpeakSentence gender="male" locale="en_US" voice="paul">Transfering you to a Bandwidth Exec</SpeakSentence>
     <Transfer transferTo="+15087696559">
+        <PhoneNumber>PhoneNumber</PhoneNumber>
         <SpeakSentence gender="male" locale="en_US" voice="paul">Get ready for an exciting conversation with an analyst!</SpeakSentence>
     </Transfer>
 </Response>
