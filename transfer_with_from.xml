@@ -2,7 +2,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Response>
     <SpeakSentence gender="male" locale="en_US" voice="paul">Transfering you</SpeakSentence>
-    <Transfer transferCallerId="" transferTo="+15087696559">
+    <Transfer transferCallerId="private" transferTo="+15087696559">
         <SpeakSentence gender="male" locale="en_US" voice="paul">Get ready for an exciting conversation with an analyst!</SpeakSentence>
     </Transfer>
 </Response>
