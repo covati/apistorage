@@ -1,0 +1,31 @@
+BEGIN:VCALENDAR
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:REPLY
+BEGIN:VEVENT
+DTSTART:20200429T200000Z
+DTEND:20200429T203000Z
+DTSTAMP:20200424T152903Z
+ORGANIZER;CN=nlowetest@bandwidth.com:mailto:nlowentest@bandwidth.com
+UID:7bmhr2bk0mhodfse96b9n5gvl1@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=acotest
+ i@bandwidth.com;X-NUM-GUESTS=0:mailto:acotest@bandwidth.com
+CREATED:20200424T140054Z
+DESCRIPTION:Bryan\, \n\nThis is a quick call for the Bandwidth Marketing an
+ d R&D teams to learn about what test is doing re your Covid-19 tracin
+ g initiative.  \n\nThanks\, \nNick \n\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:
+ ~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-\nPlease do not edit thi
+ s section of the description.\n\nThis event has a video call.\nJoin: https:
+ //meet.google.com/iyy-ucdj-test\n+1 931-389-4033 PIN: 34562test#\nView more 
+ phone numbers: https://tel.meet/iyy-ucdj-bkp?pin=455207693test&hs=7\n-::~:~
+ ::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::
+ ~:~::-
+LAST-MODIFIED:20200424T152901Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Call <> Test / Bandwidth <> Covid-19 Tracing
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR
